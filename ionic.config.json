@@ -1,0 +1,7 @@
+{
+  "name": "conceptappfeatures",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
